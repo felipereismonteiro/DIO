@@ -1,0 +1,12 @@
+programa inicia e finaliza la em baixo e dentro  fica oq ele vai fazer quando for executado quando o programa for carregado 
+
+
+programa{
+	funcao(){
+
+		escreva("Olá mundo!")
+	}
+	
+}
+
+nome de variável nao pode ter espaço branco

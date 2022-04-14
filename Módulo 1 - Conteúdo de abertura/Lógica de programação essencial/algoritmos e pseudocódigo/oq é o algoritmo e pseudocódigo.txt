@@ -1,0 +1,4 @@
+Algoritmo é uma sequencia de passos para resolver um problema
+Todo o programa é uma sequencia de código em ordem e se alterar a ordem algo vai acontecer
+
+Função condicional famoso if se algo acontecer algo acontece

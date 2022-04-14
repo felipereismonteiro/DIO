@@ -1,0 +1,6 @@
+por que git?
+
+se vc fizer um codigo e precisa ficar mudando ele nisso fica o antigo e o novo e pra nao acontecer isso vc tem o git
+que é um versionamento de codigo
+
+mudanças no codigo de forma simultanea

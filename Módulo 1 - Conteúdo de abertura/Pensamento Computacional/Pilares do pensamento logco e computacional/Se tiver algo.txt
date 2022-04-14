@@ -1,0 +1,27 @@
+Pensamento computacional:
+ uma  série de passo a passo em que o computador entende e lê cada um para solucionar o problema
+
+PILARES
+
+Dividir um poblema complexos em subproblemas
+
+Decomposição 
+Reconhecimento de padrões
+abstração 
+desingn de algoritimos
+
+Desenvolver um bom raciocinio logico
+
+indução  - observar procurando um padrão
+dedução - deduzir os padrões
+abdução - utiliza a conclusão para determinar a premissa
+
+RACIOCINIO LOGICO 
+
+Pegar um problema separá-lo em etapas e nisso chegar a uma conclusão
+e nessa solução vc melhora ela 
+
+Encontrar soluçao eficiente
+otimizar procesos
+Simplificar linhas de codigo
+funções bem definidas

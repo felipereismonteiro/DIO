@@ -1,0 +1,9 @@
+epico é o objetivo macro 
+
+A Estória de Usuário captura o “quem”, “o quê” e “por quê” dos consumidores e ajuda quem quer implementar a metodologia ágil na sua agência. A Estória de Usuário, ou User Story, é a técnica de descrever a necessidade do usuário do produto de forma simples e leve com a utilização de metodologia ágil.
+
+estoria sempre nivel de negocio
+
+tarefa é oq o time desenolve para entregar a estoria
+
+daily serve pra falar algum impedimento e tals

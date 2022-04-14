@@ -1,0 +1,28 @@
+'dir' é o comando q mostra quantas pastas tem onde vc está localizado
+
+'cd' navegar entre as pastas
+
+cd / para voltar uma pasta onde vc está
+
+basicamente mostra em q pasta  vc está
+
+.. é pra voltar tbm
+
+'cls' para limpar o terminal
+
+TAB alto completa
+
+mkdir vc cria uma pasta
+
+SE DEU TUDO CERTO O CMD  N VAI FALAR ND
+
+echo printa de volta um texto ou algo q vc fale 
+
+tipo vc cria uma pasta mkdir vc coloca echo hello > hello.txt cria um arquivo de hello.txt escrito hello
+
+
+DEL pra deletar tudo q tem dentro da pasta q vc quer  
+
+RD pra deletar uma pasta
+
+

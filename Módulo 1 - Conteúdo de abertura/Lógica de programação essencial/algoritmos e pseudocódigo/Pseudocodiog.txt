@@ -1,0 +1,4 @@
+É uma forma genérica de escrever um codigo, uma maneira que qualquer um pode entender
+
+ALGORITMO É DIVIDIR O PROBLEMA E ALGORITMO É EXPLICAR OQ VC VAI FAZER DE UM JEITO SIMPLES DE FAZER
+TIPO A JUNÇÃO DOS DOIS 

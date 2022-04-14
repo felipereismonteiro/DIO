@@ -1,0 +1,3 @@
+Vc separa o problema com uma sequencia de passo
+usa uma linguagem pra mostrar para o computador como faz detalhadamento usando um conjunto sequido de sequencias para retornar o resultado
+Tipo o passo a passo que vc passa para o pc pra ele fazer oq vc quiser

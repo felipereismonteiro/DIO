@@ -1,0 +1,1 @@
+Vc pega um objeto separa ele em elemento e classifica eles

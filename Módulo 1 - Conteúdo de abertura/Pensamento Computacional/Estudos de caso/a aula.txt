@@ -1,0 +1,1 @@
+Separando o problema em pequenos problemas e assim resolve-los

@@ -1,0 +1,5 @@
+Programar é resolver problemas
+
+logica na programação é ver o problema e resolver usando um linguagem
+abstração é fazer uma operação eliminando coisas inuteis para simplificar o mesmo, dividir em partes isso é abstração
+Vc separa o software em partes e faz cada uma

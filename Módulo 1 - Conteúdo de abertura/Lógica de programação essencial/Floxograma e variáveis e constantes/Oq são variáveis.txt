@@ -1,0 +1,5 @@
+é um objeto(uma posição, frequentemente localizada na memória) capaz de reter e representar um valor ou expressão.
+
+reserva um espaço na memória que pode ser alterado durante a execução
+
+lógicas é true ou false

@@ -1,0 +1,12 @@
+literais é tipo isso aqui var const ou let nome = 'felipe'
+
+basicamente como funciona as variáveis e fazer operações com elas tipo var 1 = a var 2 = b soma = 1 + 2
+
+Sempre  que for comparar sinais de valores se coloca assim ==
+
+Tomadas de decisão 
+
+Quado escrevemos programas, geralmente ocorre a necessidade de decidir o que fazer dependendo de alguma condição encontrada durante a execução
+
+tipo quando algo ocorre faça isso
+famoso if se tiver passa se nao tiver nao passa

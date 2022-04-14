@@ -1,0 +1,6 @@
+sha1 é um sistema de segurança que gera um codigo unico pro seu arquivo
+
+vc vai na pasta q vc quer colocar no git botao direito e git bash
+openssl sha1 texto.txt
+
+nisso gera os caractéres

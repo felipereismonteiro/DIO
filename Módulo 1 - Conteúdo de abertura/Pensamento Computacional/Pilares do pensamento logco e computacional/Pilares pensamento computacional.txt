@@ -1,0 +1,17 @@
+Decomposição 
+
+se tem um problema que vc não pode resolver tem outro menor que vc pode
+
+ vc separa um problema  grande em etapas
+e nisso resolve-las
+
+identificar os componentes 
+Papel de cada compontente
+FUNCIONAMENTO DO SISTEMA
+
+Criar um app
+
+Finalidade 
+Interface		Definição de componentes e etapas
+Funcionalidades
+Pré requisitos

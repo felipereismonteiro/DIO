@@ -1,0 +1,7 @@
+Compreensão do problema - pontos importantes do problema 
+Dados que vc irá fornecer 
+Calculos e operações
+dados após o processamento e uma ação a ser processado
+métodos que vc vai utilizar para contruir seu algoritimo
+
+E FAZER OS TESTES

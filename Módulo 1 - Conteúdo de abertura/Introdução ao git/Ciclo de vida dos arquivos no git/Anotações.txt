@@ -1,0 +1,26 @@
+Git init	=	ele cria um repositório no git
+
+oq vc muda no pc la do repositorio ele nao muda imediatamente ele só muda com um comando  de codigo
+
+
+init vc começa vai para todas as etapas e dps quando for pro commit ele faz a mudanças
+
+
+Comandos  para fazer o ciclo dentro do seu repositorio 
+
+git status fala como esta o arquivo
+no gitHub os aquivos em md ficam diferentes
+
+vai pra pasta e move ela
+
+mv strogonof.md ./receitas/
+
+git status
+
+git add strogonof.md receitas/ na pasta nova modificou o arquivo para staged
+
+git commit -m "cria pasta receitas. move arquivo para receitas"
+
+fim do fluxo
+
+quando vc cria um arquivo ele aparaec que ele nao existe entao vc tem q fazer todo o fluxo listado acima

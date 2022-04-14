@@ -1,0 +1,17 @@
+git init		- iniciar
+git add	- mover e dar inicio a tudo
+git commit	- criar o commit
+
+ls -a mostra arquivos ocultos
+
+
+faz a pasta coloca git init 
+coloca esse comando em cima pra mostrar o git
+
+git config --global user.email "felipe.dreis.monteiro@gmail.com"
+
+
+git add * 
+git commit -m "String = commit incial"
+
+para gerar o primeiro commit 

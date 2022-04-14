@@ -1,0 +1,23 @@
+colocar um link o readme[nome](link)
+
+copia o https cria uma pasta e nela vc abre o bash
+
+git  clone cola  o link
+
+cd e vai dentro do repositório
+git status
+
+vc basicamente coloca os estudos da DIO la dentro e pra colocar no git vc faz assim 
+
+bench
+
+git status
+
+git add . isso só adiciona no local 
+
+git commit -m "inclusao da anotações do curso de git para gitHub" 
+
+git status
+
+git push origin main enviando tudo pra nuvem
+PRONTO TA NO GITHUB

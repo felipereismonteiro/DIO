@@ -1,0 +1,3 @@
+coisa de loop equanto foi menor que o numero fica no loop quando ficar igual vai para ou passar no caso do numero limite
+
+Em geral vc usa uma linguagem com algoritimos para quebrar o erro e concertalo e nisso para concertar vc usa uma linguagem basica para td mundo entender e nisso vc pode colocar loop e tals 

@@ -1,0 +1,5 @@
+PO  explica pro time oq o time precisa fazer para aquela funcionalidade
+
+SCRUM MASTER ele verifica se o time está fazendo as cerimonias do scrum se esta td certo, ele age como faciliatador, ele nao gerencia
+
+e os DEVS faz a vida do software

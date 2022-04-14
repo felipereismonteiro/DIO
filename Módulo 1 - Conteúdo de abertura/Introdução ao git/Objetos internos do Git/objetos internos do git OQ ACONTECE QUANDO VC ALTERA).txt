@@ -1,0 +1,16 @@
+blobs tree e commits basicos pelo versionamento do noss codigo 
+
+oq é blob:
+
+git\objects armazena todos os tipos de objeto Git: confirmar (para confirmações), árvore (para pastas), blob (para arquivos binários) e marca (um alias confirmar-objeto simples).
+
+tree armazena blobs
+
+commit é o q junta td
+é oq vai dar sentido a alteração q vc ta fazendo
+
+SE VC ALTERAR UMA BLOB DE UMA TREE OU COMMIT MUDA SEU SHA1
+
+BASICAMENTE É OQ ACONTECE POR DE BAIXO DOS PANOS QUANDO VC ALTERA UM ARQUIVO LA DO GIT TLG
+
+é oq acontece quando  vc altera um arquivo

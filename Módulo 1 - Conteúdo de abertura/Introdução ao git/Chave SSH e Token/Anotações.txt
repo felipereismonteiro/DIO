@@ -1,0 +1,42 @@
+SSH forma segura de configurar duas maquinas
+
+nossa maquina ja fica configurada como confiável e nem precisa colocar senha
+
+gitHub faz o processo e dps vai no sli
+
+ 
+Comandos para criar as chaves
+
+
+No GitBash
+ssh-keygen -t "TipoDeCriptografiaDaChave" -C "seuEmail"
+
+C MAIUSCULO
+
+vamos navegar na pasta onde está a chave 
+ls pra lista os arquivos
+
+/c/Users/Administrador/.ssh/
+
+cat "nomeDaChave.pub"
+
+copia a chave publica
+
+
+SSH KEYS / AD NEW 
+Titulo 
+em baixo a chave
+
+
+MAIS UM PROCESSO NO SLI 
+
+na pasta do SSH 
+
+incializar o ssh agent(entidade encarregada de pegar as chaves e lidar com elas) 
+
+eval $(ssh-agent -s)
+agent pid 1382
+
+entregue a chave
+
+ssh-add "caminho da chave" ele pergunta a senha e vc coloca
