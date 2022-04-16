@@ -1,0 +1,32 @@
+no style.css faz o rest de css *{margin: 0;padding: 0;box-sizing: border-box; }
+
+:root para declarar uma variável no css
+:root{
+	--vermelho: #0000;
+	--preto: #0000;
+}
+ELE fez a logo em h2	
+body{
+	background-color: black;
+	ou background: var(--preto);
+}
+
+TUDO ISSO DENTRO DE UM CONTAINER
+google fonts para usar as fontes
+
+nos links 
+text-decoration: none;
+color #AAA
+margin-right: 10px;
+:hover color: #fff;
+
+TUDO NO CONTAINER
+flexbox no container alinhar os elementos em tela
+o display flex tem a tendencia de jogar tuo em uma linha 
+align-items: center;
+TESTAR:
+justify-content: start;
+justify-content: center;
+justify-content: space-between;
+justify-content: space-around;
+justify-content: space-evenly;

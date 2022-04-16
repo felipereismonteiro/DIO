@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:ital,wght@1,100&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <img src="images/netflix-82871.png" alt="">
+            </div><!--logo--> 
+            <nav class="links">
+                <a href="#">Inicio</a>
+                <a href="#">Séries</a>
+                <a href="#">Filmes</a>
+                <a href="#">Bombando</a>
+                <a href="#">Minha lista</a>
+            </nav>
+    </div><!--container-->
+    </header>
+
+    <section>
+        <div class="filme-principal">
+            <div class="container font white">            
+                    <h3>PEAKY BLINDERS</h3>
+            </div><!--container-->
+            <div class="botoes">
+                <button tton role="button" class="botao"><i class="fa-solid fa-play"></i> Assistir</button>
+                <button role="button" class="botao"><i class="fa-solid fa-circle-info"></i> Mais informações</button>
+            </div>
+            <div class="mais">
+                <span>+18</span>
+            </div>
+        </div><!--capa-->
+    </section>
+    
+
+    <section>
+        <h3 style="color: white;padding: 20px;font-size: 20px;margin-top: 10px;" class="font">Adicionados recentemente</h3>
+        <div class="carrosel">
+        <div class="owl-carousel owl-theme">
+            <div class="item">
+                <img class="box-filme" src="images/1.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="images/2.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="images/3.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="images/4.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="images/5.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="images/6.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="images/7.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="images/8.jpg" alt="">
+            </div>
+        </div>
+
+        <div class="carrosel">
+            <div class="owl-carousel owl-theme">
+                <div class="item">
+                    <img class="box-filme" src="images/1.jpg" alt="">
+                </div>
+                <div class="item">
+                    <img class="box-filme" src="images/2.jpg" alt="">
+                </div>
+                <div class="item">
+                    <img class="box-filme" src="images/3.jpg" alt="">
+                </div>
+                <div class="item">
+                    <img class="box-filme" src="images/4.jpg" alt="">
+                </div>
+                <div class="item">
+                    <img class="box-filme" src="images/5.jpg" alt="">
+                </div>
+                <div class="item">
+                    <img class="box-filme" src="images/6.jpg" alt="">
+                </div>
+                <div class="item">
+                    <img class="box-filme" src="images/7.jpg" alt="">
+                </div>
+                <div class="item">
+                    <img class="box-filme" src="images/8.jpg" alt="">
+                </div>
+            </div>
+    </div>
+    </section>
+<script src="css/jquery.min.js"></script>
+<script src="css/owl.carousel.min.js"></script>
+<script src="https://kit.fontawesome.com/b8b5340ac4.js" crossorigin="anonymous"></script>
+
+<script>
+    $('.owl-carousel').owlCarousel({
+    stagePadding: 50,
+    loop:true,
+    margin:10,
+    dots:false,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1000:{
+            items:4
+        }
+    }
+})
+</script>
+</body>
+</html>

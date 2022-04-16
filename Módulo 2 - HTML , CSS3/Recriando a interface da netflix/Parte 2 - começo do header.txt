@@ -1,0 +1,7 @@
+padrão index css js 
+
+header div conteiner
+h2 ele coloco  o nome netfliix
+nav - colocou links ALT SHIFT PRA BAIXO VC CLONA A LINHA Q VC TA
+
+séries filmes e documentários

@@ -1,0 +1,1 @@
+backbone - é as redes que gerenciam o tráfego da internet      p2p - comunicação direta entre 2 dispositivos

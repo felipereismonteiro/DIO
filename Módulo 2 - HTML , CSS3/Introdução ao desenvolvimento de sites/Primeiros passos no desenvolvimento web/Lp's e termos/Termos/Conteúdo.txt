@@ -1,0 +1,55 @@
+404 erro
+Algoritmo sequencia de passos para se executar algo
+alt texto alternativo, quando vc para o mouse  ele mostra algo
+api função no site para executar outras funções
+aplicação 
+back-end
+front-end
+biblioteca/ dll conjunto de ferramentas que nos permitem fazer algo
+bootstrap framewework javascript 
+breakpoits pontos chave quando montamos uma tela para diversos dispositivos ou um debug pontos de parada do debug 
+browser navegador etc
+bug óbvio
+cache	
+código instruções feitas em uma linguagem para ser interpretado pelo browser
+controle de versão softwares que controlam as versões
+cookies dados armazenados do site para que quado vc voltar para o site carregar mais rapido
+
+debug debugar pa
+deploy	quando a gente termina parte especificas de um software a gente mandaisso é um deploy
+design adaptativo
+responsivo
+dnv 
+documentação documentação interna no código que nos ajudam a saber quem criou função dele etc, externa seria um manual do usuário
+dominio https e afins
+dpi proporção de pontos na tela
+editor de texto IDE
+estrutura de dados  pilha filha array number char interger
+favicon favIcon icone do site
+fontes fonte de letra ou código fonte da pagina msm
+framework	caixa de ferramenta para desenvolver algo 
+front-end
+ftp protocolo de comunicação quase que exclusivamente para troca de arquivos
+full-stack
+github/svn/cv
+
+https
+ip
+linguagem
+meta tags 
+método ágil
+mobile
+mvc model view controler arquitetura que vc separa a estrutura de dados front back e linguagem 
+mvp minimal viable product minimo do produto para que eleja pode ser testado e tals
+mySQL banco de dados 
+pixel
+resolução quantidade de pixels que sua tela tem  
+servidor arquiuvo aplicação banco de dados 
+sistema operacional ou so windows linux e tals
+solução programa ou um conjunto de programas e ferramentas que vc pode entregar ao seu cliente
+ssl camada de segurança dos sites
+ui  cara do site user interface
+ux experiência do usuário user experience
+versão - numero q vem antes do ponto sao mudanças grandes e dps são pequenas
+WYSIWYG - what you see is what you get oq vc ve é oq vc recebe
+pequenos editores de texto no site q vc colore e tals quando vc publica é exatamente oq ta no site e tals

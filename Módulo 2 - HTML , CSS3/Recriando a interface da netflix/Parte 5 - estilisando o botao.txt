@@ -1,0 +1,8 @@
+estilisando o botão
+
+padding meche com a parte interna do elemento
+
+espaçamento da descrição
+e mudar o cursor
+
+transition botao 3% ease all

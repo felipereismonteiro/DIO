@@ -1,0 +1,2 @@
+tcp é a conexão q os dois sabem q estao conctados
+udp só joga sem se importar pra quem

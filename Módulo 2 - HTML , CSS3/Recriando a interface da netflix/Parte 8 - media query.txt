@@ -1,0 +1,6 @@
+@media screen and (max-width: 700px){
+	
+}
+
+no header pra fica certo vc coloca display
+flex flex-direction: column;

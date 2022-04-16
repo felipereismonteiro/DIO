@@ -1,0 +1,31 @@
+the movie database vc pega os cartases e tals 
+vc salva uma para colocar de capa 
+
+<main>
+dentro ele coloca uma div com a classe
+para definir mais rápido vc faz assim
+div.nomedaclasse
+
+dentro vc coloca uma caixa container
+titulo class titulo h3
+se vc colocar o color no body ele altera todo os filhos da página
+<p class="descricao">sinópsie</p>
+ele coloca uma imagem de background
+ele dá um tamanho para a caixa
+background-size: cover;
+background: linear-gradient(rgba(0,0,0,0));
+para dar uma tonalidade escura para o background
+
+
+Coloca os botôes dentro de uma div
+dois botoes de assistir depois do container
+e de mais informações com a classe botão
+role para dizer oq é aquela coisa tipo 
+role="button"
+
+coloca o display-flex em coluna 
+flex-direction: column;
+
+justify-content: center;
+para centralizar o texto no meio da página
+align-items: flex-start: tipo um float left

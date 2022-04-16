@@ -1,0 +1,9 @@
+ele trabalha com definição de container
+row 
+col-lg xs extra small
+
+div class="conteiner"
+row
+classes
+
+o min é o arquivo sendo menor minificado nisso o site carrega mais rapido

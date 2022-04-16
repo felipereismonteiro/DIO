@@ -1,0 +1,5 @@
+wraper - envelopar
+
+é com q se fosse uma div container
+
+container para alinhar vários elementos ao mesmo tempo isso é classe wraper
