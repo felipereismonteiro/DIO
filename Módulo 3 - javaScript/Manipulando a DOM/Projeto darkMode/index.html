@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+    <title>Dark mode</title>
+    <style>
+        *{margin: 0;padding: 0;box-sizing: border-box;}
+        .container{
+            text-align: center;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+        }
+        .botao{
+            font-family: 'Poppins', sans-serif;
+            margin-top: 15px;
+            border: none;
+            width: 140px;
+            height: 40px;
+            border-radius: 30px;
+            color: white;
+            background-color: rgb(85, 85, 85);
+            transition: 0.4s;
+            cursor: pointer;
+        }
+        .botao:hover{
+            background-color: rgb(43, 43, 43);
+        }
+        footer{
+            font-family: 'Poppins', sans-serif;
+            width: 100%;
+            background: black;
+            color: white;
+            position: absolute;
+            bottom: 0;
+            text-align: center;
+            height: 40px;
+        }
+
+        .darkmode{
+            background-color: black;
+            color: white;
+        }
+
+        .lightmode{
+            background-color: rgb(43, 43, 43);
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 id="texto" class="texto">DARK MODE OFF</h1>
+        <button id="botao" class="botao"type="submit">darkmode</button>
+    </div>
+
+    <footer>
+        <p style="position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);">Basecamp Javascript @ Digital Innovation One</p>
+    </footer>
+
+<script src="js.js"></script>
+</body>
+</html>

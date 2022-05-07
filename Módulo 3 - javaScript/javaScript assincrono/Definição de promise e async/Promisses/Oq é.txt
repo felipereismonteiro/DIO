@@ -1,0 +1,5 @@
+um objeto de valor assincrono onde o incialmente, seu valor é desconhecido. Ela pode então, ser resolvida ou rejeitada 
+
+Tem um filme que está passando e vc compra um ingresso e nisso o ingresso é a sua promise e nisso pode acontecer imprevistos vc pode no dia chegar e ver o filme ou nao, pode ser aprovada ou rejeitada
+
+para manipular a promisse os resultados positivos vc precisa colocar o await e nisso o then e o catch

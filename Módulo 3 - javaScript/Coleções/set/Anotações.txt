@@ -1,0 +1,1 @@
+Só armazenas valores unicos q nao se repetem 

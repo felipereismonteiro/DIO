@@ -1,0 +1,3 @@
+classList.add('adiciona uma classe')
+classList.remove('remove uma classe')
+classListe.toggle('Como que se fosse um interruptor ele liga e desliga adiciona e remove se ja existir')

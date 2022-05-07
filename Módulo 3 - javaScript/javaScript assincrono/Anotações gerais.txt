@@ -1,0 +1,9 @@
+Assincrono é algo que nao ocorre ou não se efetiva ao mesmo tempo:
+
+ojavaScript ele ocorre de maneira sincrona ou seja 
+algo acontece dps acontece outra coisa
+
+assincrono a gente faz uma coisa enquanto faz outra tambem
+
+PROMISSES:
+

@@ -1,0 +1,5 @@
+ele serve pra adicionar algum valor no array q é aquele [0,0,0]	
+
+O JavaScript map faz parte do conjunto de métodos disponíveis na linguagem para a manipulação de objetos do tipo array. Ele funciona como uma estrutura de repetição, pois percorre todos os elementos do array, executa determinada ação e retorna um novo conteúdo.
+
+O JavaScript Array faz parte dos objetos globais da linguagem e é utilizado para armazenar uma coleção de elementos em uma única variável. Na prática, o array é uma estrutura de dados que contém um índice numérico e um elemento, que pode ser de qualquer tipo primitivo de dados, um objeto ou, até mesmo, um outro array.

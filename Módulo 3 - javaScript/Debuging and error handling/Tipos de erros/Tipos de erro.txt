@@ -1,0 +1,8 @@
+erros de excessão q acontecem em contextos diferentes
+
+ECMAScript Error é quando vc executa e tem um problema durante a execução
+
+ele é composto por essa coisas
+
+DOM document object model ele ocorre quando a gente se refere a algo da pagina em questao 
+ 

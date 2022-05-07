@@ -1,0 +1,36 @@
+Cria uma função com o nome valida com os parametros arr e num nisso vc dá um try com ifs no quais são assim
+
+
+if(!arr && !num)throw new ReferenceError esse ponto de esclamação É O NÃO LÓGICO
+
+nisso vc coloca os  type of :
+
+typeof arr / num !== 'number' e ps type error
+
+TypeError
+Range error 
+
+e no catch vc coloca o parametro de erro q é o e
+
+function valida(arr, num){
+    try {
+        if(!arr && !num)throw new ReferenceError // Esse é para que se os parâmetros nao forem enviados, O ! É O NÃO LÓGICO
+
+    if(typeof arr !== "object")throw new TypeError('isso ai');
+
+    if(typeof num !== "number")throw new TypeError('num precisa ser do tipo number');
+
+    if(arr.length !== num)throw new RangeError('Tamanho inválido!');
+
+    return arr;
+    } catch (error) {
+        if(error instanceof RangeError){
+            console.log(error)
+        }     
+    }
+  
+}   
+console.log(valida([1,2,3,4,5],5))
+
+
+vc coloca in instance of pq ta indo em todos os erros e com o instance vc seleciona o erro q vc quer

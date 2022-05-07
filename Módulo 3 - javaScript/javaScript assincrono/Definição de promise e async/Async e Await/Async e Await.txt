@@ -1,0 +1,11 @@
+Async existe para definir funções  assincronas
+
+quando vc vai resolver uma promisse vc precisa  dizer que essa função vai ser async para q vc possa utilizar a palavra await(que foi criada expecificamente para lidar com promisses)
+
+o await ele vai para seu codigo e vai dizer  só quando essa promisse for resolvida seu código continua rodando.
+
+Pq se vc nao usar o javaScript como ele é sincrono ele vai fala ah tem uma promisse aqui nao vai resolver e ele continua rodando
+
+O  await ele para o código e só deixa continuar quando a promisse estiver resolvida
+
+Vc coloca a promisse dentro de um async function

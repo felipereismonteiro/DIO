@@ -1,0 +1,26 @@
+O JavaScript map faz parte do conjunto de métodos disponíveis na linguagem para a manipulação de objetos do tipo array. Ele funciona como uma estrutura de repetição, pois percorre todos os elementos do array, executa determinada ação e retorna um novo conteúdo.
+
+ap é quando um conjunto passa de uma operaçãoe  e se torna oujtro conjunto
+
+Cria um novo array 
+nao modigica o array original 
+realiza as operações em ordem
+
+callback função que vai ser executada em cada elemento
+
+qual a diferença entre forEach e map? em resumo: O método forEach() executa uma dada função em cada elemento de um array. O método map() invoca a função callback passada por argumento para cada elemento do Array e devolve um novo Array como resultado.
+
+méotodo filter
+
+ele basicamente com vc colocasse um array dentro de um filtro e só voltasse os itens de uma determinada condição vão ser retornados no array que for criado
+
+
+-----------------------------------------------------------
+reduce
+
+A função reduce do JavaScript serve para iterar sobre um array e utilizar o valor de cada item para criar um objeto final com base em alguma regra. Como o próprio nome da função sugere, ela “reduz” os itens de um vetor a um valor único.
+
+initialValue: É o valor inicial do resultado da operação que será passado para a função de callback na primeira iteração. Em um cenário no qual desejamos somar os itens de um vetor, por exemplo, esse argumento representa o valor inicial da soma, que apesar de ser zero na maioria dos casos, pode variar de acordo com a situação. Por exemplo, podemos desejar somar os elementos de mais de um array. Nesse caso, o resultado da soma do primeiro poderia ser passado como initialValue para o segundo, e então a nova soma seria acumulada na segunda função. Esse argumento, no entanto, é opcional.
+
+
+O INDEX É A RODADA QUE ELE TA

@@ -1,0 +1,9 @@
+Principal para tratamento de erros
+
+se vc usar o throw vc retorna o erro se vc só colocar o return ele n faz nd 
+
+try e catch 
+
+try verifica um bloco de código e se esse pedaço de códigpo tiver um erro ele vai ser tratado na função catch nisso ele vai ser tratado do jeito q vc queriam
+
+o finally é a instrução q vai ser chamada independente se tem um erro ou nao

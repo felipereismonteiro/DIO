@@ -1,0 +1,13 @@
+Objeto error ja vem com javaScript onde vc pode colocar uma série de propriedades nele no catch e finally o try vc coloca o código q vc quer testar
+
+
+criar uma constante dar nome ao seu erro e nisso um new Error nisso vai lançar a mensagem q vc quer q esteja no seu erro 
+
+uma maneira fácil de declarar um novo erro
+
+erro.stack ele diz oq foi executado e onde vc q aconteceu esse erro
+
+para fazer a validação vc coloca if(!arr && !num) throw new ReferenceError('Envie os parametros')
+
+
+o ! é pra pegar todos tipo if(!arr ** !num)

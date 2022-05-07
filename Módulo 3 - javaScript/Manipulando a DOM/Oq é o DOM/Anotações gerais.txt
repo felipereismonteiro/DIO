@@ -1,0 +1,6 @@
+ DOM é um padrão de com vc acessa e modifica os elementos HTL de uma pagina
+
+quando fala do DOM é basicamente falando de todos os nós que estão em uma pagina links textos etc
+
+Todo browser tem a janela e nisso a Window é a mãe de tudo onde ta o DOM screen navigator etc	
+o DOM é um dos filhos do window

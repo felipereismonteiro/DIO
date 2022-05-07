@@ -1,0 +1,7 @@
+Protótipos são basicamente um esqueleto de todos os objetos
+
+classe em js sempre tem um construtor que ele vai contruir a classe e se vc passar os parametros ele vai atribuir os valres com algo passado
+
+o super manda para o pai os parametros
+
+tbm pode sobrescrever métodos

@@ -1,0 +1,15 @@
+Paradigmas imperativo e declarativo
+
+imperativo foca em como vc vai resolver os problemas e o declarativo é oq vc vai fazer 
+
+um tipo declarativo seria um banco de  dados em sql por exemplo ou programação no qual vc só declara as coisas e elas acontecem ja OO vc tem q falar como as coisas vao ser chamadas ordem e tals
+
+abstração a gente tem um problema complexo e cada vez torna-lo mais simples
+
+abstrair é simplificar e generalizar cada vez mais
+
+herança objetos filhos que herdam dos pais
+
+encapsulamento se aquela classe mudar de valor nao interfere no restante do codigo
+
+polimorfismo a gente herda algo do pai mas se comportam de forma diferente

@@ -1,0 +1,10 @@
+cria uma função q recebe um map 
+
+
+isso ela cria o map usando o new sabe 
+
+nisso ela adiciona as coisas com usuarios set para adicionar no  const q ela criou como new 
+
+nisso la em cima ela cria um loop for of dos valores key e value do map nisso  dentro ela faz um if se o valor === admin a gente cria um array admins e se for admin a gente coloca o push key q é o nome doq  a gente quer puchar 
+
+nisso console.log(getAdmins(usuarios)) q é o const q vc criou do new map 

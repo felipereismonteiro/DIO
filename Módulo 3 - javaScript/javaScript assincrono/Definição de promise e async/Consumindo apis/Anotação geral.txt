@@ -1,0 +1,53 @@
+Api é um intermediário entre o front ent e o backend
+
+as api's geralmente vem no formato json
+
+o fetch ele retorna uma promise entao vc precisa usar o await quando usar um fetch(endereço da api)
+
+post quando vc manda dados para o banco de dados
+
+get pra vc pegar é um method
+
+Crie uma variável para a sua api tipo const base_url = "LINK DA API"
+
+nisso vc cria a função de carregar as imagens
+
+vc cria uma constante assincrona e dentro  vc cria uma constante data(que são os dados da database) para ser o await da fetch do seu banco de dados
+
+em baixo esse primeiro ele vai retornar outra promise(uma string) e nisso a gente converte ele em formato json  assim:
+const json = data.json();
+
+os dois vc precisa colocar o await que vai esperar a promisse da data ser resolvida e nisso ele manda pra vc os dados
+
+se vc for pesquisar a api oq ela retorna vc vai ter isso aqui:	
+
+{"id":1,"url":"https://thatcopy.github.io/catAPI/imgs/jpg/095ec43.jpg","webpurl":"https://thatcopy.github.io/catAPI/imgs/webp/095ec43.webp","x":47.03,"y":57.69}
+
+tem o id da foto e o url da foto e o webpurl
+
+a gente usa esse webpurl pq é uma imagem comprimida, a gente n vai usar o jpeg ali da url pq ele é mto demorado pra carregar
+
+para usar vc retorna o webpurl do url com o formato json
+
+json.webpurl
+
+e vc coloca td dentro de um try catch
+
+ESSA É A FUNÇÃO PRA CONSEGUIR AS IMAGENS
+
+para mecher com o DOM vc precisa faz a const interagir com o ids e nisso 
+
+vc cria duas consts para pegar o botao e o lugar onde vai trocar a imagem do gato
+
+nisso vc cria a const para mudar a imagem
+
+uma const loading assincrona que vai dar um await no get cats, sempre que a gente for querer uma imagem vai retornar um await do get cats
+
+catImg.src vai retornar um await do getCats()
+catImg.src = await getCats();
+
+O SRC É PRA PEGAR O LINK PQ O GETCAT VAI NOS PASSAR O LINK DA IMG
+
+nisso vc cria um event listener no botao que vai chamar o loading(a função para pegar a imagem dos gatos)
+
+e para a pagina já iniciar com uma imagem a gente ja inicar com o loading 

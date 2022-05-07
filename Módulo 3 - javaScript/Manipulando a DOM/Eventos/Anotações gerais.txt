@@ -1,0 +1,17 @@
+Eventos qualquer tipo de ação que o usuário faz em um pagina web
+
+eventos de atualização sempre que o valor de um campo mudar vc pd atualizar a pagina quando terminar de carregar a pagina vc faz algo e tals
+
+eventListener ele basicamente fica olhando seu botao e quando acontecer a coisa q vc especificou ele vai acionar a função q vc especificou depois do mesmo 
+
+
+botao.addEventListener("click".function(){
+	alert('evento de click funcionou!!!')
+})
+
+quando vc quer fazer um desses eventos direto no html vc coloca on e dps oq vc quer tipo:
+
+onclick= "mudarTexto(this)"
+ondbclick
+onmouseover
+function mudarTexto(this)
