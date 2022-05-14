@@ -1,0 +1,3 @@
+java se base classe comuns entre elas
+java ee parte que cuida do desenvolvimento web
+java me dispositivos embarcados urnas eletronicas e coisas que tem um sistema unico e proprio para ele 

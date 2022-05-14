@@ -1,0 +1,4 @@
+get listagem 
+post criação 
+delete deletar
+put alteração de dados

@@ -1,0 +1,9 @@
+Classes sempre começa com letra maiuscula e objetos com letra minuscula
+
+Contrutor cria e destrutor destroi objetos
+
+void quer dizer que tal coisa n vai ter retorno
+
+para usar os métodos vc cria outro arquivos com a classe do seu nome e dentro vc chama os métodos
+
+O static possibilita chamar um método a partir de uma classe

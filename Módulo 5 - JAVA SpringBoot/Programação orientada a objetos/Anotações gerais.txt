@@ -1,0 +1,15 @@
+estruturada foca mais em com fazer e em poo oq fazer
+
+coletor de lixo a medida q vc programa vai pegando memoria do pc e as lingagens tem o mecanismo que limpa essas coisa na memoria
+
+
+Atributo vc vai usar para representar algo da vida real e a variavel vc usa para executar alguma operação
+
+construtor constroi objetos 
+destrutor auxilia na destruição de um objeto para liberar algumas coisas do obj
+
+classe basicamente fica parada e o objeto q faz as coisas acontecerem
+
+mensagem é a solicitação de um metodo que retorna algum valor, é a troca de mensagens que fazem o sistema funcionar
+
+polimorfismo mesma ação mas se comportando de forma diferente

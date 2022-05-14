@@ -1,0 +1,6 @@
+npm install react-redux
+npm install --save-dev redux-devtools
+
+basicamente oq eu entendi vc cria algo q faz algo e nisso ele cria uma action para mudar outrac coisa
+
+dispatch enviar a mensagem

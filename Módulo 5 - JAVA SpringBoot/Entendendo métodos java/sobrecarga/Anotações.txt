@@ -1,0 +1,6 @@
+o mesmo método vai se comportar de forma difente tendo o mesmo nome para isso deve mudar a lista de parametros
+
+
+tem q mudar o tipo de dado do parametro para resolver o problema de ter dois parametros no mesmo método 
+
+e para chamar vc pode colocar f ou d na frente do numero

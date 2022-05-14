@@ -1,0 +1,5 @@
+Para q usar o react:
+Vc vai trabalhar com o js com mais facilidade mais controle de sua aplicação e nao fica amarrado a framework
+
+
+A principal função é a criar a interface para o usuário

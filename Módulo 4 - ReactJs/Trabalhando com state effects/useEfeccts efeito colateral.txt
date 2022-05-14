@@ -1,0 +1,13 @@
+no ifood ele tem um botao q fica o valor de quantos produtos vc quer 
+
+por exemplo  o produto é 10 reais mas vc quer 2 dele 
+entao fica 20
+
+useEffect ele pede uma função na qual função deve ser executa e qual evento ele deve vigiar 
+useEffect(()=>{
+	qual ação ele deve fazer
+},[oq ele deve vigiar])
+
+useEffect(()=>{
+		
+},[])

@@ -1,0 +1,23 @@
+basicamente ele é liga desliga para o desenvolvimento java, não precisando usar tanta coisa para configurar o ambiente para começar a codar
+
+quando for inicializar o spring boot pelo site start.spring.io vc no lugar dsa dependencias vc coloca web simplesmente e dps vc vai no generate e ele baixa para sua maquina.
+
+para uma aplicação que só retorna texto vc coloca @RestController
+
+para iniciar o projeto vc vai no cmd e coloca mvn spring-boot:run
+
+
+para usar o jar
+
+mvn clean package 
+
+todo arquivo por padrao ele é gerado na pasta target
+
+cd target
+
+java -jar springboot.jar
+ 
+oq é o profile Os profiles são um tipo de configuração para ambientes, por exemplo profiles de desenvolvimento, homologação e produção. Por padrão, o Spring boot espera que tenha o arquivo application. properties esteja criado e caso não tenha passado a propriedade spring. profiles.
+
+
+ESTUDAR O LOMBOC que ja seta o getter e o setter de todas as coisas(Banco de dados)

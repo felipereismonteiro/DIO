@@ -1,0 +1,40 @@
+numberFormatException pq vc colocou string em numero
+
+vc se le uma exeção de baixo pra cima
+
+try é o bloco onde vc acha q ocorreu a exception ou onde pode ocorrer
+
+o finnaly é opcional
+
+mesmo dando exception ou nao esse finally é executado
+
+ basicamente vc advinha o erro  e coloca o try e catch e coloca o erro q deu e vc faz oq quiser com ele
+
+import javax.swing.JOptionPane;
+
+public class App{
+    public static void main(String[] args){
+        String a = JOptionPane.showInputDialog("Numerador: ");
+        String b = JOptionPane.showInputDialog("Denominador: ");
+        try{
+            int resultado = dividir(Integer.parseInt(a),Integer.parseInt(b));
+        System.out.println("Resultado: " + resultado);
+        }catch(NumberFormatException e){
+            JOptionPane.showMessageDialog(null, "Entrada inválida, informe um numero inteiro" + e.getMessage());
+            e.printStackTrace(); //para imprimir a exception mesmo com o catch 
+            // esse e é um objeto entao ele tem os metodos desse exeption acima
+        }catch(ArithmeticException e){
+            JOptionPane.showMessageDialog(null, "Entrada inválida, número 0 não é permitido");
+            e.printStackTrace();
+        }
+        finally{
+            System.out.println("Chegou até aqui");
+        }
+        
+        
+    }
+    public static int dividir(int a, int b){return a / b;}
+} 
+
+
+basicamente vc coloca o nome do erro no catch dependendo de qual for 

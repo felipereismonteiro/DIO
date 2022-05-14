@@ -1,0 +1,1 @@
+sourcemap basicamente mostra qual foi o erro entao fica mais fácil para debugar o codigo quando tiver o erro, e vc coloca no webpack.config.js e nele em um dos modulos vc coloca sourcemap: true,

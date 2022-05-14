@@ -1,0 +1,13 @@
+Para criar um classe para usar o css vc precisa colocar className=""
+
+function hello(){
+	return <div className="Nome da classe">Hello World<div/>
+}
+
+com classes vc n consegue criar um link dinamico
+
+estados sao imutaveis a gente destroi um para criar outro
+
+Resumidamente, Hooks é uma nova proposta que irá nos permitir utilizar estado, ciclo de vida, entre outras funcionalidades, sem a necessidade de escrevermos componentes com classe. A proposta já foi aceita e está disponível na versão 16.8 do React.
+
+no estado cada alteração é mandada pelo react onChange

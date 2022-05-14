@@ -1,0 +1,15 @@
+se colocar false em uma variavel ele simplesmente nao renderiza
+
+Separe seu projeto em camadas
+
+o react exige que a gente crie uma chave para cada elemento de uma lista e isso é necessario para indentificar qual chave foi definida
+
+quando vc cria uma função dentro de onde ele renderiza ele simplesmente fica renderizando sempre que aparecer aquilo 
+
+
+const handleClick = (e) => {
+	console.log('Deletar cliente')	
+}
+onClick = {handleClick}
+
+deixa sempre seus arquivos modulados possivel mais separados botoes etc

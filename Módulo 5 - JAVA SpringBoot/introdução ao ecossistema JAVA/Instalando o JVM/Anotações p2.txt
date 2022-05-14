@@ -1,0 +1,4 @@
+Como instalar a JVM
+
+sudo apt install curl - isso  n é no cmd é em outro
+

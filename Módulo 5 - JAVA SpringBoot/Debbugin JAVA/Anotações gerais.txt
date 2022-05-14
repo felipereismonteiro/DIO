@@ -1,0 +1,32 @@
+é recomendavel vc ter um dumpstack só quando vc quiser fazer a depuração do seu codigo
+
+dumpstack imprime a stack trace da tread q ta executando no momento
+
+Stack trace
+Traduzido do inglês-Na computação, um rastreamento de pilha é um relatório dos quadros de pilha ativos em um determinado ponto no tempo durante a execução de um programa. Quando um programa é executado, a memória geralmente é alocada dinamicamente em dois lugares; a pilha e a pilha. Wikipedia (inglês)
+
+a gente le a stack trace de baixo pra cima
+
+
+para debugar a gente coloca o break point onde a gente acredita onde pode estar acontecendo o erro
+
+aparece um circulo vermelho e para rodar o codigo no debug a gente usa o debbuging
+
+Variables as variaveis que estao acontecendo na tread
+
+step over faz a gente pular de linha é uma opção
+step into a gente entra no metodo e ve a sua execução
+step out quando a gente termina de ver onde ta o erro e a gente corrige e nisso sem parar o debbug
+run to cursor acelerar a execução
+evaluate expression pd simular algumas coisas tipo 6*2 mostra o resultado
+
+em variable vc pode especionar alguma variavel
+
+coloca threads no view como o programa ta empilhando os metodos
+
+resume resume o programa
+
+view break points para ver todos os breakpoints
+
+
+basicamente vc ve o resultado e pensa como resolver ele usando o debbug mode

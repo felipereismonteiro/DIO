@@ -1,0 +1,19 @@
+element = '1'
+element2 = <h1>OLaaaa<h1/>
+function app(){
+	return(
+		<div>
+			{elment}
+			{elment2}
+		<div/>
+	)
+}
+
+<app />
+
+
+na function app vai ter todo o app e nele vc passa a pagina toda
+
+pode ter quantos componentes quiser
+
+td q vc acessar dentro de um componente vc pode acessar ele com o {children}

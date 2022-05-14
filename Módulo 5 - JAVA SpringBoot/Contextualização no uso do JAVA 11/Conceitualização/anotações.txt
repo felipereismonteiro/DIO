@@ -1,0 +1,9 @@
+main método de anotação para disparar o  nosso programa 
+
+final a variavel é contante ou seja esse valor nao vai mudar
+
+tipo de dado ele sempre tem q ser definido
+
+dps disso tem o nome nome da variavel
+
+valor inicial q é opcional 

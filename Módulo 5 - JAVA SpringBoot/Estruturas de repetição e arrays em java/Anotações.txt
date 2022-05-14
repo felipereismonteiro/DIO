@@ -1,0 +1,30 @@
+a[linha][coluna]
+
+github de todas as coisas
+
+https://github.com/cami-la/loops-e-arrays
+
+para ler coisas pelo teclado vc cria uma classe Scanner nomeDaClasse = new Scanner(System.in);
+
+para pedir o nome e idade vc coloca Sring nome; int idade;
+
+dps system.out.println("Nome")
+system.out.println("Idade")
+
+para pegar o nome e idade vc precisa declarar de onde vc vai pegar o valor q é assim 
+
+nome  = NomeDaClasse.next();
+para numeor inteiro vc faz asssim
+
+idade  = NomeDaClasse.nextInt();
+
+coloca em baixo dos print pra fica td certo
+
+
+para fazer o loopo vc faz enqaunto true faça o nome e idade if nome for igual a 0 break 
+
+nome.equals(0)
+
+
+PARA INDICAR Q É UM ARRAY VC PRECISA [] TIPO
+int[] nome = {};

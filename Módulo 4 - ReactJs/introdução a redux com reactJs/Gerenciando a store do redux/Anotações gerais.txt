@@ -1,0 +1,12 @@
+Compose é oq a gente chama quando cria uma store
+
+time trevelling é basicamente no devtools e vc ver quando teve um store e ver oq aconteceu na aplicação e tals
+
+prioridade a = nao modifique o estado
+		reducer nao devem ter side-effects
+		nao coloque valores sinlarizados dentro de state or actions
+		só use uma store por aplicação
+
+pattern duck pensar em modulos
+
+Component container uma forma de encapsular logica no mesmo jeito do high order

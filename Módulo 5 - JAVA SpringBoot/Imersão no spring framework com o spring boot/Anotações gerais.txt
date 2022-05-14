@@ -1,0 +1,23 @@
+beans são objetos gerenciados pelo container spring
+
+Spring
+
+
+vc usa o component quando vc tem acesso ao codigo fonte
+
+@Component
+
+quando vc coloca isso vc pode injetar em qualquer lugar sem precisar criar um objeto new 
+
+
+bean é quando vc n tem o codigo fonte 
+
+public Gson gson(){
+	return new Gson();
+}
+@bean para injetar dois objetos
+
+
+singleton um unico objeto 
+
+prototype a cada necessidade vc tem uma intancia

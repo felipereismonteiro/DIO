@@ -1,0 +1,15 @@
+Para começar vc cria uma pasta e no cmd vc chega até ela e em seguida vc colcoa npm init e dá ss em td
+
+Site pra instalar o react e td
+https://www.liquidweb.com/kb/install-react-js-windows/
+
+npm install --save react@16.8.6 react-dom@16.8.6 react-scripts@3.0.1
+
+JSX é uma linguagem de marcação criada q n é html nem uma string, é uma linguagem de marcação que possui todo o poder do javaScript
+
+
+ou seja vc pode ter variaveis funções e tals em uma jsx
+
+jsx n é obrigatorio mas ajuda mto 
+
+o browser n interpreta entao pra isso vc precisa de um transplador

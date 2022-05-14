@@ -1,0 +1,82 @@
+hook é uma função q se engacha no seu componente e toda vez que seu componente sofrer clique ou alteração essa função vai se executada 
+
+npx create-react-app my-App
+
+no app.js são os arquivos java script onde fica nossos componentes
+
+componete é uma função q retorna um bloco de html e css imbutido ja trabalhado
+
+e nisso tem os arquivos principais q é o index.js
+
+tbm tem o package.json
+
+setup teste é uma ferramenta para vc iniciar o uso de jest q é uma ferramenta de teste
+
+reportvitals ele ajuda a acompanhar movimento de performance do projeto
+
+basicamente vc roda o programa npm start
+
+o public é onde a gente tem os componente icones e tals
+
+html index ele criou um template de html e td q a gente for fazer dentro desse projeto ele injeta dentro dessa div q tem o id root
+
+todos os nossos componentes seram mandados para a div root dentro do index.html do publics geralmente a gente não meche pq  é basicamente o coração da aplicação
+
+no src vc tira o app testes e o report vitals e tira o setup de testes
+
+todos eles pucham o app  que é o componente onde ele interpola todos os outros
+
+boas praticas sempre nomeie um componente com a primeira letra maiuscula
+
+fragment é uma div onde vc encapsula esse elementos
+
+
+VC CRIA UM COMPONENT E NELE VC VAI CRIAR TODOS OS OUTROS
+
+
+para importar o componente vc coloca import Counter'Local'
+
+import Counter from './counter/Counter.js'
+
+por exemplo e vc pode usar ele como uma tag HTML
+
+<Counter/>
+
+SEMPRE TEM Q ENCAPSULAR <></> Q É O ELEMENTO PAI
+
+para associar algo no javaScript vc precisa fazer assim no html 
+
+{Nome da variavel}
+
+do jeito sem o hook a gente basicamente cria o componente e fala olha quando isso acontecer a gente precisa atualizar isso aqui hein
+
+entao os hooks é basicamente vc cria uma função q ele fala basicamente ah quando algo acontecer deixa cmg q eu atualizo 
+
+hook state um componente q  vai ter memoria
+
+
+para usar o hook vc coloca isso 
+
+import {useState} from 'react';
+
+ele basicamente vai usar o estado isso quer dizer q o nosso componente vai ter memoria
+statefull guarda memoria e stateless é oq nao guarda
+
+ele retorna uma função para atualiza-lo
+
+import {useState} from 'react'
+function SmartCounter(){
+    const [maisUm, adicionarMaisUm] = useState(1)
+    return(
+    <>
+        <h1>{maisUm}</h1>
+        <button onClick ={()=> {adicionarMaisUm(mais + 1)}}>Mais</button>
+    </>
+    )
+}
+
+export default SmartCounter;  
+
+hook ae
+
+basicamente ele é reativo pq ele realmente atualiza o estado pois o outro só recoloca o outro numero esse ele realmente faz o trabalho todo 

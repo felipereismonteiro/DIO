@@ -1,0 +1,1 @@
+bundler - arquivo final onde o webpack pega todos os modulos e empacota em um unico arquivo

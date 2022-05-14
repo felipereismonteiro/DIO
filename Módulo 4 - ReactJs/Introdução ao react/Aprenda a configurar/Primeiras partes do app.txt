@@ -1,0 +1,36 @@
+root element ele renderiza toda a pagina react
+
+normalmente vc cria outras paginas dentro de outras mas com o react vc cria tudo em uma unica pagina usando o rootElement
+assim olha la no index.js
+
+vc coloca um a função q é o jsx assim 
+<div id="root"></div>
+no app.js
+
+function myJsx(){
+	return{
+		<div>Felipe</div>
+	}
+}
+
+basicamente vc pode colocar uma function do js no html
+
+
+function soma(a, b){
+  return a + b
+}
+
+function meuSite(){
+  return(
+    <div>
+    <h2>QUEM OLHAR É GAY</h2>
+    <h2>Soma: {soma(10,10)}</h2>
+    </div>
+    
+  )
+}
+
+
+no css vc importa la no app.js e pronto
+
+vc basicamente usa className pra colocar uma classe q vc definiu no css

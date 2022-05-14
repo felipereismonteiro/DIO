@@ -1,0 +1,12 @@
+essas palavras nos nao podemos utilizar para definição de classe nome de metodo classe e tals
+
+para criar uma classe public class Order{
+
+}
+
+nome da classe precisa ser sempre com a primeira letra maiuscula representando algo da vida real 
+
+
+basicamente vc pode passar como alguem pode usar uma classe ou metodo tipo private e tals
+
+basicamente vc tem cases e se n cair nesses case vc usa o switch

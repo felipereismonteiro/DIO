@@ -1,0 +1,25 @@
+para mostrar um input daora JOptionPane.showMessageDialog(null, "Mensagem", "TITULO", JOptionPane.WARNING_MESSAGE); 
+
+para imprimir um arquivo no console
+pega um arquivo 
+
+File file = new File(nome); Cria um objeto do tipo file
+
+BufferedReader br = new BufferedReader(new FileReader(file.getName()))
+PARA CRIAR UM BUFF COM CADA ELEMENTO
+String line = br.readLine();
+PARA LER LINHA PRO LINHA DOQ TA DENTRO DESSE BUFFER
+
+BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out))
+
+do{
+	bw.write(line);
+	bw.newLine();
+	line = br.readLine();
+}while(line != null);
+
+bw.flush();
+br.close();
+
+
+

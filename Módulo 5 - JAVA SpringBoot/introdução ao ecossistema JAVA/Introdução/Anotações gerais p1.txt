@@ -1,0 +1,13 @@
+JVM virtual java machine
+
+
+o compilador java ele escreve o codigo passa para byte codes e dps o java interpreta
+ 
+source file byte code e dps o java
+
+GC responsavel por fazer toda a limpeza da memória 
+
+
+o compilador ele serve para fazer o arquivo executavel para cada sistema operacional
+
+agr o java e compila pelo javac e nisso ele transforma em byte code no qual o java interpreta para cada sistema operacional

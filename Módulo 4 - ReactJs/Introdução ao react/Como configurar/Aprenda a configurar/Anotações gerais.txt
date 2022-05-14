@@ -1,0 +1,14 @@
+no Webpack o entry é onde ele pega todos os arquivos para montar a arvore
+output é onde vai sair 
+
+nisso tem o path.resolve(__dirname, 'dist')esse é o no me da pasta q vai ser criada e nele vc pd colocar qualquer nome
+
+fileName é determinando qual var ser o  nome do bundler
+
+babel é basicamente um interpretador no qual ele pega seu codigo e digita ele de um jeito q o browser consiga interpretar se caso normalmente ele nao consiga em ourtas versoes do javaScript
+
+instala o babel.rc e dps react.dom se n tiver
+
+npm i react react-dom
+
+no src tem o app.js index.html index.js

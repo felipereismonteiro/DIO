@@ -1,0 +1,19 @@
+React é uma lib baseada em componentes e usar em qualquer lugar redux é um state container para aplicações para Js
+
+flux é uma arq que resolvia o problema de notificações do facebook de compartilhamento de estado e tals
+
+elm uma linguagem  desenvolvida para vc escrever codigo para o dom interagindo direto com ele
+
+a ideia do redux era representar os estados todos em um unico lugar
+
+quando a gente cria um reducer é basicamente uma função onde a gente verifica se aquele ação dá match com alguma ação q vc esperava 
+
+middleware é basicamente uma função que retorna outra função 
+
+tem um recurso dentro do react q é necessarios para conectar os componentes ao estado é o provider
+
+toolkit se originou pq os pessoal falava q precisava de muita coisa para usar o react entao ele facilita
+
+Store: você pode pensar em store como um container ou um grande centro de informações, que tem disponibilidade para receber e entregar o que o seu componente requisita. A store armazena de forma centralizada todos os estados da aplicação. Vale ressaltar que a store é imutável.
+
+immer js basicamente nos permite mutar as coisas q  o reducer nao deixava

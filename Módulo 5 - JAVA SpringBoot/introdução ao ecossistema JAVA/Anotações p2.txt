@@ -1,0 +1,30 @@
+Como instalar a JVM
+
+sudo apt install curl - isso  n é no cmd é em outro
+
+
+basicamente vc cria o lugar q vc quer executar o programa java eu vo fazer no replit 
+
+o nome da classe precisa ser o mesmo nome do arquivo tipo 
+
+public class MyFirstProgram{
+	public static void main(String[] args){
+		final Order order = new Order("code1234");
+System.out.printIn(order)
+	}
+}
+
+public static void main ele é responsavel por executar o programa
+dentro recebe um argumento como Strings
+
+
+Criar pacote definir qual classe
+
+e dps metodo que executa public static void main
+
+nisso ele recebe um argumento de strings[] args de arguments
+
+basicamente ele cria uma classe em outro arquivo e nisso ele importa la no primeiro onde vc criou e dps vc coloca import e o local 
+
+e para executar o programa vc usa isso 
+

@@ -1,0 +1,3 @@
+instalar componentes e tals
+
+npm i styled components 

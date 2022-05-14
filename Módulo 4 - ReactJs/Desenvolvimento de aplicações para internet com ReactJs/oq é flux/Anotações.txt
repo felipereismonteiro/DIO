@@ -1,0 +1,3 @@
+Flux é uma arquitetura criada pelo facebook para a comunicação entre componentes
+
+store guarda e altera os estados

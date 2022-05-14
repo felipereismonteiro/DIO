@@ -1,0 +1,9 @@
+Criar uma pasta components para cada componente a gente cria uma pasta 
+
+dentro dele vc cria o app 
+
+todo componente para usar ele vc precisa importar ele e vc pode usar como componente html
+
+app.css e app.js sao componentes
+
+todo componente vc pode trabalhar com ele .js ou .jsx
